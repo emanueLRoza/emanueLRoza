@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-	https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
-  
+<
+img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=emanueLRoza&show_icons=true&theme=red&include_all_commits=true&count_private=true" />  
